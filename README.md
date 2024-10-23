@@ -16,14 +16,17 @@ I will be diving into key Linux concepts, practicing linux system administration
 * Integrate Artificial Intelligence concepts into my skill set.
 * Build fundamental knowledge of cloud computing.
 
-# Follow me through this journey and you are welcome to contribute to it.
+Follow me through this journey and you are welcome to contribute to it.
 
-# Connect with me:
-# You can find me on:
+# Connect with me: You can find me on:
 Linkedln: https://www.linkedin.com/in/iwundu-nmasinachi-mary-984217162/
+
 YouTube: https://www.youtube.com/@NmasinachiMary
-Twitter: @NmasinachiMary
-Facebook: Nmasinachi Mary Iwundu
+
+Twitter: https://twitter.com/NmasinachiMary
+
+Facebook: https://www.facebook.com/nmasinachimary.iwundu
+
 Medium: Iwundu Nmasinachi Mary
-Instagram: nmasinach_mary
-Thread: nmasinach_mary
+
+Instagram: https://www.instagram.com/nmasinachi_mary/
