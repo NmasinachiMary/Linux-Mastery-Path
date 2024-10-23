@@ -18,7 +18,7 @@ I will be diving into key Linux concepts, practicing linux system administration
 
 Follow me through this journey and you are welcome to contribute to it.
 
-# Connect with me: You can find me on:
+# Connect with me, you can find me on:
 Linkedln: https://www.linkedin.com/in/iwundu-nmasinachi-mary-984217162/
 
 YouTube: https://www.youtube.com/@NmasinachiMary
@@ -27,6 +27,6 @@ Twitter: https://twitter.com/NmasinachiMary
 
 Facebook: https://www.facebook.com/nmasinachimary.iwundu
 
-Medium: Iwundu Nmasinachi Mary
+Medium: https://medium.com/@iwundunmasinachi
 
 Instagram: https://www.instagram.com/nmasinachi_mary/
